@@ -1,0 +1,32 @@
+print('Hello, World!')
+
+# You know nothing, Jon Snow!
+
+print('Robert')
+print('Stannis')
+print('Renly')
+
+print('10')
+
+print('What Is Dead May Never Die')
+
+print(81/9)
+
+a = 6
+b = -81
+print(a - b)
+
+print(3**5)
+print(-8/-4)
+
+a = (8/2 + 5)
+b = (-3/2)
+print(a-b)
+
+print(70 *(3 + 4) / (8+2))
+
+print(0.39 * 0.22)
+
+print((5 ** 2) - (3 * 7))
+
+print('"Khal Drogo\'s favorite word is "athjahakar""')
